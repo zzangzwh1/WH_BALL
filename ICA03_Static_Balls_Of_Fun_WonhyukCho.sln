@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICA03_Static_Balls_Of_Fun_Wonhyuk", "ICA03_Static_Balls_Of_Fun\ICA03_Static_Balls_Of_Fun_Wonhyuk.csproj", "{8CBC859A-F051-4F73-8E45-7C16664C6B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBC859A-F051-4F73-8E45-7C16664C6B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBC859A-F051-4F73-8E45-7C16664C6B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBC859A-F051-4F73-8E45-7C16664C6B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBC859A-F051-4F73-8E45-7C16664C6B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BFEE50-1A0E-4ACE-9099-DAB5F0ACC8D8}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN2019 - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
